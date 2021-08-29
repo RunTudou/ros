@@ -1,0 +1,12 @@
+语音处理：
+https://blog.csdn.net/hcx25909/article/details/9103327?spm=1001.2014.3001.5506
+
+视觉处理：
+https://blog.csdn.net/hcx25909/article/details/9165195?spm=1001.2014.3001.5506
+
+导航定位：
+https://blog.csdn.net/hcx25909/article/details/9255001	坐标系统
+https://blog.csdn.net/hcx25909/article/details/9334231	导航与定位框架
+https://blog.csdn.net/hcx25909/article/details/9470297	move_base（路径规划）
+https://blog.csdn.net/hcx25909/article/details/12110959	amcl（导航与定位）
+https://blog.csdn.net/hcx25909/article/details/50539417	如何配置机器人的导航功能
